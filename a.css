@@ -1,0 +1,64 @@
+.align{
+    text-align: center;
+}
+
+
+.sol{
+    background-color:#62B3AA;
+    width: 500px;
+    height: 50px;
+    background-color:#70ccc2;
+    padding-bottom:40px;
+    text-align: center;
+    float: left;
+    margin-top: 5px;
+    font-size: small;
+    padding-top: 10px;
+    margin-right:4px;
+    margin-left: 150px;
+    
+    
+
+}
+
+.orta{
+    width: 500px;
+    height: 50px;
+    background-color:#70ccc2;
+    padding-bottom:40px;
+    text-align: center;
+    float: left;
+    margin-top: 5px;
+    font-size: small;
+    padding-top: 10px;
+    margin-right:4px;
+}
+
+.sag{
+    width: 500px;
+    height: 50px;  
+    background-color:#62b3aa;
+    padding-bottom:50px;
+    text-align:center;
+    float: left;
+    margin-top: 5px;
+    font-size: small;
+    
+
+
+}
+
+.ana{
+    text-align: center;
+}
+
+.fs-19{
+    font-size: 19px;
+    text-align: center;
+}
+
+.enaltyazi{
+    text-align: center;
+    float: left;
+    margin-left: 800px;
+}
